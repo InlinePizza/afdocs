@@ -45,4 +45,5 @@
 ## About
 
 - [About AFDocs](https://afdocs.dev/about.md)
+- [Powered by AFDocs](https://afdocs.dev/powered-by.md): products and tools that run AFDocs, and how to get listed
 - [AFDocs Home](https://afdocs.dev/index.md)

@@ -124,6 +124,13 @@ and, where you can, which direction scores move. Keep
 `docs/agent-score-calculation.md` and `docs/interaction-diagnostics.md` in
 step with it; the three describe the same rules.
 
+### Listing a product that runs AFDocs
+
+If your product or tool runs AFDocs, add a row to `docs/powered-by.md` in
+alphabetical order. The criteria are on that page: it runs AFDocs (dependency,
+CLI, or API), it credits AFDocs publicly, and it is available to the public.
+No code changes are needed for a listing PR.
+
 ## Submitting a pull request
 
 1. Create a branch from `main`.

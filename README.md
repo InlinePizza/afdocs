@@ -74,6 +74,10 @@ Full documentation is available at **[afdocs.dev](https://afdocs.dev)**:
 - [CI Integration](https://afdocs.dev/ci-integration) — vitest helpers for your pipeline
 - [Programmatic API](https://afdocs.dev/reference/programmatic-api) — TypeScript API for custom tooling
 
+## Powered by AFDocs
+
+Hosted scoring services from Fern, Mintlify, Document360, and Documentation.ai, the CNCF's CLOMonitor, and several open-source tools run AFDocs under the hood. The full list, the listing criteria, and a badge are at [afdocs.dev/powered-by](https://afdocs.dev/powered-by).
+
 ## Responsible use
 
 AFDocs makes HTTP requests to the sites it checks. It enforces delays between requests (200ms default), caps concurrent connections, and honors `Retry-After` headers.

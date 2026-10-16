@@ -77,4 +77,5 @@ cat >> "$OUTPUT" << 'SECTION'
 SECTION
 
 echo "- [About AFDocs](${BASE_URL}/about.md)" >> "$OUTPUT"
+echo "- [Powered by AFDocs](${BASE_URL}/powered-by.md): products and tools that run AFDocs, and how to get listed" >> "$OUTPUT"
 echo "- [AFDocs Home](${BASE_URL}/index.md)" >> "$OUTPUT"

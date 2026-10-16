@@ -121,7 +121,10 @@ export default defineConfig({
       },
       {
         text: 'About',
-        items: [{ text: 'About AFDocs', link: '/about' }],
+        items: [
+          { text: 'About AFDocs', link: '/about' },
+          { text: 'Powered by AFDocs', link: '/powered-by' },
+        ],
       },
     ],
 

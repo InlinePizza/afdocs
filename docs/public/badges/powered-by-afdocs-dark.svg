@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="20" role="img" aria-label="Powered by AFDocs">
+  <title>Powered by AFDocs</title>
+  <clipPath id="r"><rect width="134" height="20" rx="3" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="78" height="20" fill="#abd1c6"/>
+    <rect x="78" width="56" height="20" fill="#004643"/>
+  </g>
+  <g text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11">
+    <text x="39" y="14" fill="#001e1d">Powered by</text>
+    <text x="106" y="14" fill="#fff" font-weight="bold">AFDocs</text>
+  </g>
+</svg>
